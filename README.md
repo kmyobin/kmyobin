@@ -1,18 +1,16 @@
 <div align="center">  
 
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=FE%20Developer&fontSize=90)
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=kmyobin&fontSize=90)
 
 </div>
 
 
 
-  꼼꼼하면서 꾸준한 것이 저의 장점입니다.
-  
-  개발 역량을 쌓기 위해 느리지만 꾸준히 노력하고 있습니다.
+  꼼꼼하면서 꾸준한 것이 저의 장점이며, 느리지만 꾸준히 노력하고 있습니다.
   
   저의 목표 1순위는 **성장**입니다.
   
-  사람이 모일 수록 다양한 환경이 만들어지고, 그 곳에서 만들어내는 시너지와 열정을 얻고 싶습니다.
+  사람이 모일 수록 다양한 환경이 만들어지고, 그 곳에서 만들어지는 시너지와 열정을 얻고 싶습니다.
   
   잘 부탁드립니다😄
 
@@ -49,4 +47,4 @@
   
   [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=sowhat0516)](https://solved.ac/sowhat0516)
   
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkmyobin&count_bg=%234FB4FF&title_bg=%2340DBFE&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+  [![hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2Fkmyobin?color=blue&label=hits&size=small)](https://myhits.vercel.app)
